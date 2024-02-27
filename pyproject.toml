@@ -9,7 +9,8 @@ readme = "README.md"
 python = "^3.11"
 blacksheep = "^2.0.7"
 uvicorn = "^0.27.1"
-psycopg2 = "^2.9.9"
+psycopg = "^3.1.18"
+psycopg-pool = "^3.2.1"
 
 
 [build-system]
